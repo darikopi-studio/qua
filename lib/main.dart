@@ -14,6 +14,8 @@ import 'package:permission_handler/permission_handler.dart';
 
 void main() => runApp(MyApp());
 
+String quotesUri = "https://raw.githubusercontent.com/darikopi-studio/qua/data/quotes.json";
+
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
@@ -73,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
   Future<Quote> fetchQuotes() async {
-    final response = await http.get('http://www.mocky.io/v2/5df504f83000002d00111c10');
+    final response = await http.get(quotesUri);
     if (response.statusCode == 200) {
       setState(() {
         _visible = true;
