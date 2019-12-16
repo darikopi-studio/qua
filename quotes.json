@@ -1,7 +1,38 @@
 [
-{
-  "id": 1,
-  "message": "Test",
-  "by": "system"
-}
+  {
+    "id": "c592f914-b501-4d74-99ee-dbe14e6c2165",
+    "message": "Kalo bisa besok, kenapa harus sekarang?",
+    "by": "@darikopi.studio",
+    "by_link": "https://instagram.com/darikopi.studio"
+  },
+  {
+    "id": "7cee70ba-d6c2-435a-a119-57824833d3e0",
+    "message": "Carpe Diem",
+    "by": "@darikopi.studio",
+    "by_link": "https://instagram.com/darikopi.studio"
+  },
+  {
+    "id": "dac4ad8e-075d-4575-97b0-b228054045c9",
+    "message": "Nanos gigantum humeris insidentes",
+    "by": "@darikopi.studio",
+    "by_link": "https://instagram.com/darikopi.studio"
+  },
+  {
+    "id": "137c066e-d009-4c6e-b2ac-a59cddc4c957",
+    "message": "Pekerjaan itu layaknya lelucon",
+    "by": "@darikopi.studio",
+    "by_link": "https://instagram.com/darikopi.studio"
+  },
+  {
+    "id": "ab03391c-9c8a-4079-9561-d4c721d977c3",
+    "message": "passion is bull$#!+",
+    "by": "@darikopi.studio",
+    "by_link": "https://instagram.com/darikopi.studio"
+  },
+  {
+    "id": "a82bf9f0-bc3d-40da-99b6-f08f6a8a5283",
+    "message": "Hidup itu kocak, lu yang jual ginjal. 1 RT yang girang bisa minjem duid",
+    "by": "@darikopi.studio",
+    "by_link": "https://instagram.com/darikopi.studio"
+  }
 ]
